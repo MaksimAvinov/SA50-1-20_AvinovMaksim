@@ -1,0 +1,10 @@
+#blok {
+    position: relative;
+    cursor: pointer;
+}
+#fon{
+    position: relative;
+    width: 880px;
+    height: 880px;
+    background-color: rgb(157, 169, 207);
+}
